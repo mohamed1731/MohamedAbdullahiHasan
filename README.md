@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mohamed Abdullahi Hassan
 
 💻 *Full-Stack Developer* passionate about building scalable web & mobile applications.  
-⚡ I specialize in *React, **Node.js, **Firebase, **Js, and **Tailwind CSS*.  
+⚡ I specialize in *React, **Node.js, **Firebase, **Js, **MYSQL, **HTML, and **Tailwind CSS*.  
 🌱 Always learning, experimenting, and contributing to open-source projects.  
 
 ---
