@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mohamed Abdullahi Hassan
 
-💻 *Full-Stack Developer* passionate about building scalable web & mobile applications.  
-⚡ I specialize in *React, **Node.js, **Firebase, **Js, **MYSQL, **HTML, and **Tailwind CSS*.  
+💻 Full-Stack Developer passionate about building scalable web & mobile applications.  
+⚡ I specialize in *React, Node.js, Firebase, JavaScript, Python, MySQL, HTML, CSS, and Tailwind CSS*.  
 🌱 Always learning, experimenting, and contributing to open-source projects.  
 
 ---
@@ -21,13 +21,24 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-- 🚀 [Facebook Logo](https://github.com/mohamed1731/facebook_Logo) – A project showcasing the Facebook logo design with HTML & CSS.
-- 📱 [Coffee Shop](https://github.com/mohamed1731/Coffee-Shop) – A responsive coffee shop website with HTML, CSS, and JavaScript.
+- 🚀 [Facebook Logo](https://github.com/mohamed1731/facebook_Logo) – Built with *HTML & CSS*, showcasing the Facebook logo design with responsive layout.  
+- 📱 [Coffee Shop](https://github.com/mohamed1731/Coffee-Shop) – A responsive coffee shop website using *HTML, CSS & JavaScript*.  
+- 🧮 [Calculator](https://github.com/mohamed1731/calculator) – A functional calculator project built with *JavaScript, HTML & CSS*, supporting basic arithmetic operations.  
+
+---
+
+## 📈 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed1731&show_icons=true&theme=radical)
 
 ---
 
